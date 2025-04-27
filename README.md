@@ -1,4 +1,4 @@
-HomeVue — Official Website
+#HomeVue — Official Website
 Welcome to the HomeVue official website, the companion web experience for our iOS app.
 This website offers users easy access to support, privacy information, and more about HomeVue.
 
