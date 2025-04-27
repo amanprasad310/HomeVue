@@ -63,9 +63,3 @@ Or clone the repository if you want to explore or contribute:
 git clone https://github.com/amanprasad310/HomeVue.git
 
 ---
-
-✅ Now when you paste this into `README.md`, GitHub will **automatically render** it with proper formatting, links, and sections beautifully organized!
-
----
-If you also want a **version with badges** (like `Website Live`, `Made with ❤️ in HTML/CSS/JS` badges at the top), I can add that too! 🚀  
-Want me to create that version? 🎨
