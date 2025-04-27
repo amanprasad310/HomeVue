@@ -1,69 +1,71 @@
-#HomeVue — Official Website
-Welcome to the HomeVue official website, the companion web experience for our iOS app.
+# HomeVue — Official Website
+
+Welcome to the **HomeVue** official website, the companion web experience for our iOS app.  
 This website offers users easy access to support, privacy information, and more about HomeVue.
 
-🌐 Website Links
-Main Website: HomeVue Website
+## 🌐 Website Links
 
-Support Page: HomeVue Support
+- **Main Website**: [HomeVue Website](https://amanprasad310.github.io/HomeVue/)
+- **Support Page**: [HomeVue Support](https://amanprasad310.github.io/HomeVue/support/support.html)
+- **Privacy Policy**: [HomeVue Privacy Policy](https://amanprasad310.github.io/HomeVue/privacy/privacy.html)
 
-Privacy Policy: HomeVue Privacy Policy
+---
 
-📱 About HomeVue
-HomeVue is your smart companion for home management, decor visualization, and support solutions — all at your fingertips!
+## 📱 About HomeVue
+
+**HomeVue** is your smart companion for home management, decor visualization, and support solutions — all at your fingertips!  
 Through our app and website, we aim to provide:
 
-Smooth user support experience
+- **Smooth user support experience**
+- **Clear privacy policies and transparency**
+- **Easy navigation and beautiful design**
 
-Clear privacy policies and transparency
+---
 
-Easy navigation and beautiful design
+## 📋 Website Structure
 
-📋 Website Structure
-Homepage (/HomeVue/)
+- **Homepage** (`/HomeVue/`)  
+  - Introduction to HomeVue  
+  - App highlights and key features  
+- **Support Page** (`/HomeVue/support/support.html`)  
+  - Contact options (Email, Chat, Phone)  
+  - Direct support form to reach our team
+- **Privacy Policy Page** (`/HomeVue/privacy/privacy.html`)  
+  - Detailed information on data collection, usage, and user rights
 
-Introduction to HomeVue
+---
 
-App highlights and key features
+## 🛠️ Technologies Used
 
-Support Page (/HomeVue/support/support.html)
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- EmailJS (for support form functionality)
+- Lucide Icons (for beautiful icons)
+- Intersection Observer API (for scroll animations)
 
-Contact options (Email, Chat, Phone)
+---
 
-Direct support form to reach our team
+## 📬 Contact
 
-Privacy Policy Page (/HomeVue/privacy/privacy.html)
+For any queries, support, or feedback, feel free to reach out via the [Support Page](https://amanprasad310.github.io/HomeVue/support/support.html).
 
-Detailed information on data collection, usage, and user rights
+---
 
-🛠️ Technologies Used
-HTML5
+## ⚡ Quick Start
 
-CSS3
-
-JavaScript (Vanilla)
-
-EmailJS (for support form functionality)
-
-Lucide Icons (for beautiful icons)
-
-Intersection Observer API (for scroll animations)
-
-📬 Contact
-For any queries, support, or feedback, feel free to reach out via the Support Page.
-
-⚡ Quick Start
-You can view the live website here:
-👉 https://amanprasad310.github.io/HomeVue/
+You can view the live website here:  
+👉 [https://amanprasad310.github.io/HomeVue/](https://amanprasad310.github.io/HomeVue/)
 
 Or clone the repository if you want to explore or contribute:
 
-bash
-Copy
-Edit
+```bash
 git clone https://github.com/amanprasad310/HomeVue.git
-🔒 Privacy
-HomeVue respects your privacy.
-Please read our Privacy Policy for more details on how your data is handled.
 
-✨ Thank you for supporting HomeVue!
+---
+
+✅ Now when you paste this into `README.md`, GitHub will **automatically render** it with proper formatting, links, and sections beautifully organized!
+
+---
+If you also want a **version with badges** (like `Website Live`, `Made with ❤️ in HTML/CSS/JS` badges at the top), I can add that too! 🚀  
+Want me to create that version? 🎨
